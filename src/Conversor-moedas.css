@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  padding: 15px;
+  background-color: rgb(68, 66, 66);
+  color: antiquewhite;
+}
+
+.hidden {
+  display: none;
+}
